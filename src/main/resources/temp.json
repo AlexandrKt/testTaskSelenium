@@ -1,0 +1,25 @@
+{
+  "key1": "value1",
+  "key2": 42,
+  "key3": true,
+  "key4": {
+    "nested_key1": "nested_value1",
+    "nested_key2": false,
+    "nested_key3": {
+      "even_deeper_key": "even_deeper_value"
+    }
+  },
+  "key5": [
+    {
+      "subkey1": "subvalue1",
+      "subkey2": false
+    },
+    {
+      "subkey1": "subvalue2",
+      "subkey2": true
+    }
+  ],
+  "key6": {
+    "nested_key2": [1, 2, 3]
+  }
+}
